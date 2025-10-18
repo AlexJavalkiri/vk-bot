@@ -1,1 +1,1 @@
-vkbottle==0.15.1
+nano requirements.txt
